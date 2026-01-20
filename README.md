@@ -156,4 +156,4 @@ This indicates:
 **Can Deniz Yetkin**  
 Department of Computer Engineering  
 İzmir Institute of Technology (IZTECH)  
-📧 canyetkin@std.iyte.edu
+📧 canyetkin@std.iyte.edu.tr
